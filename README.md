@@ -3,12 +3,11 @@
 
 My submission of Udacity Self Driving Car Term1, Project 1.
 
+Final output on video
 <img src="solidWhiteRight.gif" width="480" alt="Detect Lanes On Video" />
 
-Result
----
-
-<img src="images_output.pnd" alt="Output" />
+Lanes detected on test images
+<img src="images_output.png" alt="Output" />
 
 
 Overview
