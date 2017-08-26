@@ -1,7 +1,7 @@
 # Finding Lane Lines on the Road
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-My submission of Udacity Self Driving Car Term1, Project 1.
+My submission of Udacity Self Driving Car Term1, Project 1. This project employs computer vision techniques to extract lane lines from image and video.
 
 ## Overview
 
